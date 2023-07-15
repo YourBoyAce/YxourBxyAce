@@ -1,0 +1,7 @@
+def rahul(x=1):
+    while x>0:
+        s=print("Rahul LJ is Handsome")
+    return(s) 
+n=int(input("Enter Any Number except 0:"))
+a=rahul(n)
+print(a)
